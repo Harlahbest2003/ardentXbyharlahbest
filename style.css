@@ -1,11 +1,13 @@
 
-header {
+
+header{
     padding: 15px 0;
     position: fixed;
     left: 0;
     right: 0;
     top: 0;
     background: url(https://ardentx.com/wp-content/uploads/2022/03/chk.png)no-repeat;
+    
       background-size: auto;
     background-size: 100%;
-  }
+}
